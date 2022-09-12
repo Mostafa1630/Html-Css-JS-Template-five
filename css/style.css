@@ -99,7 +99,7 @@ header nav a{
     border-radius: 0.5rem;
     color: var(--main-light-color);
 }
-/* header nav a.active, */
+header nav a.active,
 header nav a:hover{
     background-color: var(--main-green);
     color: var(--main-background-white);
